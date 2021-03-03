@@ -1,0 +1,14 @@
+.top {
+  background: #15597e;
+  height: 50px;
+}
+.middleBottom {
+  background: #15597e;
+  height: 150px;
+  width: 99%;
+  margin-left: 8px;
+}
+.one {
+  text-align: center;
+  margin-top: 10px;
+}
